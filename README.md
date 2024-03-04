@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @urbandogfit
-- 👀 I’m a Quantity Surveyor
+- 👋 Hi, I am Jocelyne
+- 👀 I’m a Quantity Surveyor | BIM Professional 
 - 🌱 I’m currently learning C language
 - ⚡ I love bouldering
 <!---
